@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, SegundaActivity::class.java)
             intent.putExtra("argumento1","Mensaje de activity1")
             intent.putExtra("numero",212)
+            //iniciar la activity
             startActivity(intent)
 
         }
