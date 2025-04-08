@@ -1,4 +1,4 @@
-package guerrero.erick.myapplicationintents
+package guerrero.erick.Catalog
 
 import org.junit.Test
 

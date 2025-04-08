@@ -1,4 +1,4 @@
-package guerrero.erick.myapplicationintents
+package guerrero.erick.Catalog
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import coil3.load
+import guerrero.erick.myapplicationintents.R
 import guerrero.erick.myapplicationintents.databinding.ActivitySegundaBinding
 
 class SegundaActivity : AppCompatActivity(), OnClickListener {
